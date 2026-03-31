@@ -1,8 +1,13 @@
 # 🌐 Landing Portfolio – Adriana Aránguez
 
+🔗 **Live Demo:**
+https://adrianaarang.github.io/landingpageCV/
+
+---
+
 Landing page personal desarrollada como portfolio profesional, enfocada en mostrar experiencia en desarrollo web, análisis funcional y liderazgo.
 
-Incluye un sistema de contacto interactivo mediante modal, validaciones en JavaScript y una estructura limpia orientada a buenas prácticas.
+Incluye un sistema de contacto interactivo mediante modal, validaciones en JavaScript y una estructura limpia orientada a buenas prácticas de frontend.
 
 ---
 
@@ -33,6 +38,15 @@ Desarrollar una landing profesional que combine:
 * Presentación clara de perfil técnico y funcional
 * Interacción dinámica con el usuario
 * Buenas prácticas de desarrollo frontend
+* Experiencia de usuario optimizada
+
+---
+
+## 🌍 Despliegue
+
+Este proyecto está desplegado mediante **GitHub Pages**, permitiendo acceso público sin necesidad de instalación.
+
+🔗 https://adrianaarang.github.io/landingpageCV/
 
 ---
 
@@ -40,8 +54,18 @@ Desarrollar una landing profesional que combine:
 
 Si te interesa mi perfil o quieres colaborar en algún proyecto, puedes utilizar el formulario de contacto integrado en la web.
 
+También puedes encontrarme en LinkedIn:
+🔗 https://www.linkedin.com/in/TU-USUARIO/
+
 ---
 
 ## 📌 Estado
 
 Proyecto en mejora continua 🚀
+
+Próximas mejoras:
+
+* Integración con backend para envío real de formularios
+* Mostrar proyectos reales
+* Optimización de rendimiento
+* Animaciones y microinteracciones
