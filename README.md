@@ -55,7 +55,7 @@ Este proyecto está desplegado mediante **GitHub Pages**, permitiendo acceso pú
 Si te interesa mi perfil o quieres colaborar en algún proyecto, puedes utilizar el formulario de contacto integrado en la web.
 
 También puedes encontrarme en LinkedIn:
-🔗 https://www.linkedin.com/in/TU-USUARIO/
+🔗 https://www.linkedin.com/in/adriana-aranguez/
 
 ---
 
